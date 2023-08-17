@@ -1,4 +1,4 @@
-# tweeter-tool
+# twitter-tool
 This software allows you to generate likes, followers on instagram or RT
 
 Extremely simple one-step process: Launch tiktok-tool.exe
